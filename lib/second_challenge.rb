@@ -7,7 +7,5 @@ def second_challenge
   }
 
 def list(groceries)
- groceries.values.to_s  
-end 
-list(groceries)
+ groceries.values
 end 
