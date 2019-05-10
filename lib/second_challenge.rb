@@ -7,7 +7,6 @@ def second_challenge
   }
 
 def list(groceries)
-groceries.each do |type, list| 
  groceries.values 
 
 end
