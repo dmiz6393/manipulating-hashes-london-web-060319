@@ -11,6 +11,7 @@ groceries.each do |type, list|
   list.each do |attribute, value|
  attribute.values 
     end 
-    list(groceries)
+list(groceries)
 end
+end 
 end 
