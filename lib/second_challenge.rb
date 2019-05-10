@@ -6,7 +6,7 @@ def second_challenge
    grains: ["rice", "pasta"]
   }
 
-def 
+def list(groceries)
 groceries.each do |type, list| 
   type.values 
 
