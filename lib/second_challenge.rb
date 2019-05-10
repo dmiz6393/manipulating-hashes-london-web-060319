@@ -9,8 +9,6 @@ def second_challenge
 def list(groceries)
 groceries.each do |type, list| 
   type.values 
-
-  
-
+    end 
 end
 end 
