@@ -12,6 +12,6 @@ groceries.each do |type, list|
  attribute.values 
     end 
 end
-list(groceries)
 end 
+list(groceries)
 end 
